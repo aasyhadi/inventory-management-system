@@ -155,7 +155,7 @@ Menampilkan ringkasan inventori:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/username/inventory-management-system.git
+git clone https://github.com/aasyhadi/inventory-management-system.git
 cd inventory-management-system
 ```
 
